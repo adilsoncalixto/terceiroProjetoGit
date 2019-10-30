@@ -1,2 +1,2 @@
 # terceiroProjetoGit
-Curso Formação em JavaScript
+Curso Formação em JavaScript - Mestre Jedi
